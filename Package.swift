@@ -14,7 +14,7 @@ let package = Package(
         .binaryTarget(
             name: "WebRTC",
             url: "https://github.com/shiguredo/sora-ios-sdk-specs/releases/download/\(file)",
-            checksum: "f5bb3bc266f63616a4c608ca4dd5396bc084f2b8e99d4f7d756235e2e0d9afef"
+            checksum: "cfd75f4fc6eac05e9d410488efbb7e0064b3f342c29bb8163a6edb79ed79821d"
         ),
     ]
 )
